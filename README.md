@@ -1,1 +1,1 @@
-"Validate email address" 
+Validate email address
