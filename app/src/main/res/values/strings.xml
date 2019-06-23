@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ValidateEmail</string>
+    <string name="email_address">Email Address</string>
+    <string name="validate">validate</string>
 </resources>
